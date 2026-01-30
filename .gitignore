@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+nexus_archives/
+viral_deploy.py
+task.md
+start_task.py
+implementation_plan.md
+walkthrough.md
+.gemini/
+github_downloader.py
