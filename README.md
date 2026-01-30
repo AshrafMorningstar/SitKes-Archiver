@@ -38,6 +38,11 @@ Edit `sitkes_archiver.py` to set your preferences.
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+## Perview
+<img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/4ff6643a-57e8-4a00-8070-0442cfe709e7" />
+<img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/fd351467-cca0-44a3-91e0-216df76c6768" />
+<img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/5447f6e6-ff37-43e0-a0fd-418ea650d1e0" />
+
 
 ## 📜 License
 
